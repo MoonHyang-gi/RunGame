@@ -1249,6 +1249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   bestScore: 0
+  gameStage: 0
   scoreText: {fileID: 820247449}
   bestScoreText: {fileID: 1016714914}
   titleText: {fileID: 1253558499}
